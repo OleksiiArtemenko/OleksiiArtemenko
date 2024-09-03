@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**OleksiiArtemenko/OleksiiArtemenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I Do
+- **Frontend Web Development**: Designing and implementing user-friendly web interfaces with HTML, CSS, and TypeScript (JS).
+- **Backend Development**: Developing server-side applications and APIs using Node.js and more.
+- **Linux**: Extensive experience with Linux systems.
 
-Here are some ideas to get you started:
+### Tech Stack
+- **Languages**: JavaScript, C++, C#, SQL, and more.
+- **Tools**: SCSS, Tailwind, REST API.
+- **Frameworks**: React, Redux, .NET Framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me
+I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out!
