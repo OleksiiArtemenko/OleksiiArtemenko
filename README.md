@@ -6,7 +6,7 @@
 - **Linux**: Extensive experience with Linux systems.
 
 ### Tech Stack
-- **Languages**: JavaScript, C++, C#, SQL, and more.
+- **Languages**: JavaScript, C++, C#, SQL.
 - **Tools**: SASS, Docker, REST API, and more.
 - **Frameworks**: React, Redux, .NET Framework, Express, Ant Design, Tailwind.
 
