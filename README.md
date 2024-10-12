@@ -8,7 +8,7 @@
 ### Tech Stack
 - **Languages**: JavaScript, C++, C#, SQL, and more.
 - **Tools**: SASS, Docker, REST API, and more.
-- **Frameworks**: React, Redux, .NET Framework, Express, Ant Design.
+- **Frameworks**: React, Redux, .NET Framework, Express, Ant Design, Tailwind.
 
 ### Connect with Me
 I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out!
