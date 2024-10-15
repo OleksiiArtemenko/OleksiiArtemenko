@@ -6,7 +6,7 @@
 - **Linux**: Extensive experience with Linux systems.
 
 ### Tech Stack
-- **Languages**: JavaScript, TypeScript, SQL
+- **Languages**: JavaScript, TypeScript, SQL, C++, C#
 - **Frontend**: React, Redux, CSS, SASS, Tailwind
 - **Backend**: Node.js, Express
 - **Tools**: Vite, Webpack, Git, Docker, REST API
