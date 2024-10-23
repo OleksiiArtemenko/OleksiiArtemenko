@@ -6,10 +6,10 @@
 - **Linux**: Extensive experience with Linux systems.
 
 ### Tech Stack
-- **Languages**: JavaScript, TypeScript, SQL, C++, C#
-- **Frontend**: React, Redux, CSS, SASS, Tailwind
+- **Languages**: JavaScript, TypeScript, SQL (PostgreSQL, MySQL)
+- **Frontend**: React.js, Redux, Next.js, SCSS
 - **Backend**: Node.js, Express
-- **Tools**: Vite, Webpack, Git, Docker, REST API
+- **Tools**: Git, GitHub, Docker, Webpack, Vite, NPM/Yarn
 
 ### Connect with Me
 I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out!
