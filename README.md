@@ -9,7 +9,7 @@
 - **Languages**: JavaScript, TypeScript, SQL (PostgreSQL, MySQL)
 - **Frontend**: React.js, Redux, Next.js, SCSS
 - **Backend**: Node.js, Express
-- **Tools**: Git, GitHub, Docker, Webpack, Vite, NPM/Yarn
+- **Tools**: Git, GitHub, Docker, Webpack, Vite, NPM/Yarn, Jest
 
 ### Connect with Me
 I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out!
